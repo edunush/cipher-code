@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="groovy-4.0.0-alpha-3 (2)" type="groovy-library">
+    <properties version="4.0.0-alpha-3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-astbuilder-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-cli-commons-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-cli-picocli-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-ant-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-contracts-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-datetime-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-dateutil-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-console-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-docgenerator-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-ginq-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-groovydoc-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-jmx-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-groovysh-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-jsr223-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-macro-library-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-json-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-nio-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-servlet-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-macro-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-sql-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-test-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-templates-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-swing-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-test-junit5-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-testng-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-typecheckers-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-yaml-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-xml-4.0.0-alpha-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-4.0.0-alpha-3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-ant-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-astbuilder-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-cli-commons-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-cli-picocli-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-console-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-contracts-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-datetime-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-dateutil-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-docgenerator-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-ginq-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-groovydoc-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-groovysh-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-jmx-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-json-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-jsr223-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-macro-library-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-macro-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-nio-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-servlet-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-sql-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-swing-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-templates-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-test-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-test-junit5-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-testng-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-typecheckers-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-yaml-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-xml-4.0.0-alpha-3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/lib/groovy-4.0.0-alpha-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
